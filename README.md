@@ -1,8 +1,28 @@
-# React + Vite
+# 🍿 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Explore o fascinante mundo do cinema com facilidade! Este aplicativo React utiliza o poder do React Router, React Hooks e a API do TMDb para fornecer informações sobre seus filmes favoritos.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Pesquisa de Filmes:** Encontre seus filmes preferidos em segundos.
+- 🎥 **Detalhes do Filme:** Descubra detalhes como descrição, orçamento, duração e receita com apenas um clique.
+
+## Tecnologias
+
+- ⚛️ React
+- 🌐 React Router
+- 🎣 React Hooks
+- 🍿 API do The Movie Database (TMDb)
+
+## Configuração Rápida
+
+1. Obtenha uma chave de API do [TMDb](https://www.themoviedb.org/documentation/api).
+2. Substitua `SUA_API_KEY` no arquivo `src/api/config.js` pela sua chave.
+
+## Executando o Projeto
+
+1. 🚀 Inicie o aplicativo localmente com `npm start`.
+
+## Contribuição
+
+🤝 Contribuições são bem-vindas! Abra issues e envie pull requests para deixar nosso app ainda melhor.
